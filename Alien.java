@@ -1,4 +1,4 @@
-package com.roger.xaropinho;
+package Xaropinho-Ratinho-Attacks-main;
 public class Alien extends Sprite {
 
     private final int INITIAL_X = 1920;
