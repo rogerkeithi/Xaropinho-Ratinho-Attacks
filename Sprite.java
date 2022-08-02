@@ -1,4 +1,4 @@
-package com.roger.xaropinho;
+package Xaropinho-Ratinho-Attacks-main;
 
 import java.awt.Image;
 import java.awt.Rectangle;
